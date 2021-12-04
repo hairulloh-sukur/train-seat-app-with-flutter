@@ -2,7 +2,7 @@
 
 # seat-train-app-with-flutter
 
-Aplikasi Pilih Kursi Kereta dengan Flutter 2.5.3
+Aplikasi Pilih Kursi Kereta dengan Flutter 2.5.3 dan GetX
 
 <br>
 
